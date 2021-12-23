@@ -18,7 +18,7 @@ public class mathExample {
 		System.out.println(a*b); // 곱셈 = 200
 		
 		System.out.println("a/b="+(a/b));
-		// 나눗셈 ( 0.5지만 -> 기본정수형은 int 이기 떄문에 0을 추력한다
+		// 나눗셈 ( 0.5지만 -> 기본정수형은 int 이기 떄문에 0을 출력한다
 		
 		int c = 15;
 		
