@@ -15,3 +15,12 @@ public class InterfaceExeExample {
 	
  }
 }
+
+class ImCC extends Father implements AA, BB, CC {
+	void aa() {
+	}
+	
+	
+	
+}
+
